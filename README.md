@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on K8s and Opneshift V4.2...
 
 <!--
 **bamishr/bamishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
