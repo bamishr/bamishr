@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 <a href="https://twitter.com/bamishr">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,7 +18,7 @@ Hi there 👋
 <br/>
 <br/>
 
-I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
+### I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
 
 ![BadrishMishra's github stats](https://github-readme-stats.vercel.app/api?username=bamishr&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamishr&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +26,9 @@ I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
 ![](https://komarev.com/ghpvc/?username=bamishr)
 
 <div align="center">
+  
+[![Linkedin: bamishr](https://img.shields.io/badge/-badrishmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bamishr/)](https://www.linkedin.com/in/bamishr/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-bamishr.github.io-2648ff?style=flat-square&logo=google-chrome)](https://bamishr.github.io/)
 
 ### Show some ❤️ by starring some of the repositories!
 
