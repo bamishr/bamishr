@@ -2,9 +2,10 @@ Hi there 👋
 
 I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=bamishr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![BadrishMishra's github stats](https://github-readme-stats.vercel.app/api?username=bamishr&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamishr&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=bamishr&theme=blue&hide_langs_below=1)
+![](https://komarev.com/ghpvc/?username=bamishr)
 
 <div align="center">
 
@@ -12,6 +13,13 @@ I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
 
 </div>
 
+
+
+
+<!--
+![enter image description here](https://github-readme-stats.vercel.app/api?username=bamishr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=bamishr&theme=blue&hide_langs_below=1) -->
 <!--
 **bamishr/bamishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
