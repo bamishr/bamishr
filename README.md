@@ -35,6 +35,9 @@
 
 <!-- [![Linkedin: bamishr](https://img.shields.io/badge/-badrishmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bamishr/)](https://www.linkedin.com/in/bamishr/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-bamishr.github.io-2648ff?style=flat-square&logo=google-chrome)](https://bamishr.github.io/) -->
+<!-- <a href="https://www.facebook.com/badrish.mishra.5/">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a> -->
 
 ### Show some ❤️ by starring some of the repositories!
 
