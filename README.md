@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-### I am a DevOps Engineer at IBM UK, working on OpenShit aPaas v4.2 and K8s.
+### I am a DevOps Engineer, working on OpenShit aPaas v4.2 and K8s.
 
 ![BadrishMishra's github stats](https://github-readme-stats.vercel.app/api?username=bamishr&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamishr&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
